@@ -1,16 +1,19 @@
-## Hi there 👋
+# Meu Titulo
+**Seja Bem-Vindo ao meu perfil**
 
-<!--
-**NicolasTheodoro2024/NicolasTheodoro2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudo no [Alura](https://www.alura.com.br/)
 
-Here are some ideas to get you started:
+Meu nome é **Nicolas**,
+sou estudante da escola Maria Dulce Mendes 📖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou criando projetos e aprimorando meus conhecimentos em tecnologia, 
+estou utilizando esse espaço para organizar e criar meus projetos que eu propio desenvolvo.
+
+Para entrar em contato comigo 📩
+
+@00001095145344sp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/GqOoWCxt5DEAAAAC/fast-car.gif)
+
+
+
